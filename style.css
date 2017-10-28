@@ -1,0 +1,47 @@
+#controls{
+    position:fixed;
+    width:57px;
+    height:30px;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin:auto;
+}
+
+.control{
+    width:100%
+}
+
+#display{
+    position:absolute;
+    width:100vw;
+    height:50vh;
+    top:0px;
+    left:0px;
+}
+
+#background{
+    position:relative;
+    height:300px;
+    width:100%;
+}
+
+#title{
+    position:absolute;
+    width:100%;
+    height:100%;
+    left:10%;
+    top:10%;
+    font-size:30px;
+    text-decoration: underline;
+    text-decoration-color: grey;
+}
+
+#discription{
+    position:absolute;
+    width:100%;
+    height:100%;
+    left:10%;
+    top:20%;
+    font-size:20px;
+}
